@@ -1,0 +1,1 @@
+SImple movie app to allow users to rate movies, get recommendations comment on movies. mobile app using react native.
